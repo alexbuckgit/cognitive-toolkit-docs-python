@@ -54,7 +54,7 @@ constructor:
 
       **Important:**
 
-      Click [here](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-epochSize-and-Python-epoch_size-in-CNTK)
+      Click [here](/cognitive-toolkit/BrainScript-epochSize-and-Python-epoch_size-in-CNTK)
 
       for a description of input and label samples.'
     types:

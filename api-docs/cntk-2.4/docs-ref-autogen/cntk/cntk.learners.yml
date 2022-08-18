@@ -243,7 +243,7 @@ functions:
     description: 'momentum schedule. Note that this is the beta1 parameter in the
       Adam paper [1].
 
-      For additional information, please refer to the [this CNTK Wiki article](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
+      For additional information, please refer to the [this CNTK Wiki article](/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
     types:
     - <xref:float>, <xref:list>, <xref:output of cntk.learners.momentum_schedule>
   - name: unit_gain
@@ -362,7 +362,7 @@ functions:
   - name: momentum
     description: 'momentum schedule.
 
-      For additional information, please refer to the [this CNTK Wiki article](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
+      For additional information, please refer to the [this CNTK Wiki article](/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
     types:
     - <xref:float>, <xref:list>, <xref:output of cntk.learners.momentum_schedule>
   - name: unit_gain
@@ -727,7 +727,7 @@ functions:
   - name: momentum
     description: 'momentum schedule.
 
-      For additional information, please refer to the [this CNTK Wiki article](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
+      For additional information, please refer to the [this CNTK Wiki article](/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
     types:
     - <xref:float>, <xref:list>, <xref:output of <xref:cntk.learners.momentum_schedule>>
   - name: unit_gain
@@ -827,7 +827,7 @@ functions:
   - name: momentum
     description: 'momentum schedule.
 
-      For additional information, please refer to the [this CNTK Wiki article](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
+      For additional information, please refer to the [this CNTK Wiki article](/cognitive-toolkit/BrainScript-SGD-Block#converting-learning-rate-and-momentum-parameters-from-other-toolkits).'
     types:
     - <xref:float>, <xref:list>, <xref:output of <xref:cntk.learners.momentum_schedule>>
   - name: unit_gain

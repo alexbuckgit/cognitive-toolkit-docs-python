@@ -22,7 +22,7 @@ functions:
     types:
     - <xref:str>
   - name: streams
-  seeAlsoContent: '  [Base64ImageDeserializer options](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-and-Python---Understanding-and-Extending-Readers#base64imagedeserializer-options)
+  seeAlsoContent: '  [Base64ImageDeserializer options](/cognitive-toolkit/BrainScript-and-Python---Understanding-and-Extending-Readers#base64imagedeserializer-options)
 
     '
 - uid: cntk.io.CBFDeserializer
@@ -41,7 +41,7 @@ functions:
 
       an input stream.'
     defaultValue: '{}'
-  seeAlsoContent: '  [CNTKBinaryReader format](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-CNTKBinary-Reader)
+  seeAlsoContent: '  [CNTKBinaryReader format](/cognitive-toolkit/BrainScript-CNTKBinary-Reader)
 
     '
 - uid: cntk.io.CTFDeserializer
@@ -65,7 +65,7 @@ functions:
       names to <xref:cntk.io.StreamDef> objects. Each StreamDef object configures
 
       an input stream.'
-  seeAlsoContent: '  [CNTKTextReader format](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-CNTKTextFormat-Reader)
+  seeAlsoContent: '  [CNTKTextReader format](/cognitive-toolkit/BrainScript-CNTKTextFormat-Reader)
 
     '
 - uid: cntk.io.HTKFeatureDeserializer
@@ -120,7 +120,7 @@ functions:
     types:
     - <xref:str>
   - name: streams
-  seeAlsoContent: '  [Image reader definition](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-Image-reader)
+  seeAlsoContent: '  [Image reader definition](/cognitive-toolkit/BrainScript-Image-reader)
 
     '
 - uid: cntk.io.LatticeDeserializer
@@ -239,7 +239,7 @@ functions:
     types:
     - <xref:dict>
   return:
-    description: 'String representation in [CNTKTextReader format](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-CNTKTextFormat-Reader)'
+    description: 'String representation in [CNTKTextReader format](/cognitive-toolkit/BrainScript-CNTKTextFormat-Reader)'
     types:
     - <xref:str>
 classes:
