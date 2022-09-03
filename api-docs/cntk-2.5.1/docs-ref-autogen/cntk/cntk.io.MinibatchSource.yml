@@ -30,7 +30,7 @@ constructor:
 
       **Important:**
 
-      Click [here](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-epochSize-and-Python-epoch_size-in-CNTK)
+      Click [here](/cognitive-toolkit/BrainScript-epochSize-and-Python-epoch_size-in-CNTK)
 
       for a description of input and label samples.'
     types:
@@ -150,7 +150,7 @@ methods:
 
       **Important:**
 
-      Click [here](https://docs.microsoft.com/en-us/cognitive-toolkit/BrainScript-minibatchSize-and-Python-minibatch_size_in_samples-in-CNTK)
+      Click [here](/cognitive-toolkit/BrainScript-minibatchSize-and-Python-minibatch_size_in_samples-in-CNTK)
       for a full description of this parameter.'
     isRequired: true
     types:
