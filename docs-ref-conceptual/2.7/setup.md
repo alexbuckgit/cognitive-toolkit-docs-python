@@ -1,7 +1,7 @@
 ---
 title: CNTK V2 Setup and Installation
 ms.date: 05/31/2017
-ms.topic: concepts
+ms.topic: conceptual
 ms.service: cognitive-toolkit
 ---
 
